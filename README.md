@@ -1,68 +1,57 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0000ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Guilherme%20Leal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <div align="center">
-  <samp>
-    <b>The King 👑</b><br>
-    olá, me chamo Guilherme
-  </samp>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+o+Guilherme+%F0%9F%91%8B;Estudante+de+Tecnologia;Apaixonado+por+Front-end;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://media.tenor.com/d9JHS2DvOecAAAAi/png.gif" width="180"/>
-</div>
+### 👨‍💻 Sobre mim
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Gui_-black"/>
-</div>
+```text
+👋 Olá! Me chamo Guilherme Souza Leal
+📍 São Paulo - Brasil
+🎯 Estudante de Informática e apaixonado por tecnologia
+💡 Atualmente focado em HTML, CSS, JavaScript e MySQL
+🚀 Buscando sempre evoluir e criar projetos incríveis
 
-<br>
+🛠️ Tecnologias e Ferramentas
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=700&size=20&center=true&lines=I+am+from+Brazil;I'm+a+student;Be+welcome!"/>
-</div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,vscode,figma,photoshop,git,github">
 
-<br>
 
-<details>
-<summary><b>▼ Mais Info</b></summary>
-<br>
 
-<!-- Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guilhermelealsz&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermelealsz&layout=compact&theme=dark&hide_border=true&langs_count=8" height="160"/>
-</p>
+📊 GitHub Stats
 
-<br>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Guilhermelealsz&#x26;show_icons=true&#x26;theme=tokyonight&#x26;hide_border=true&#x26;count_private=true&#x26;bg_color=0D1117&#x26;title_color=00D9FF&#x26;icon_color=00D9FF&#x26;text_color=FFFFFF">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermelealsz&#x26;layout=compact&#x26;theme=tokyonight&#x26;hide_border=true&#x26;bg_color=0D1117&#x26;title_color=00D9FF&#x26;text_color=FFFFFF&#x26;langs_count=8">
 
-<!-- Profile Details -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guilhermelealsz&theme=dark"/>
-</p>
 
-<br>
 
-<!-- Skills -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,mysql,ps,figma" />
-</p>
 
-<br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilhermelealsz&#x26;theme=tokyonight&#x26;hide_border=true&#x26;background=0D1117&#x26;ring=00D9FF&#x26;fire=00D9FF&#x26;currStreakLabel=00D9FF" alt="GitHub Streak">
 
----
 
-<p align="center">
-  <b>meus contatos:</b><br><br>
-  <a href="mailto:guilhermeleals776@gmail.com"><img src="https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff"/></a>
-  <a href="https://www.instagram.com/lleal7s/"><img src="https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff"/></a>
-  <a href="https://discordapp.com/users/1286835127556767776"><img src="https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff"/></a>
-  <a href="https://wa.me/5511995707588"><img src="https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff"/></a>
-</p>
 
-</details>
+📫 Como me encontrar
 
-<br>
+  
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&#x26;logo=gmail&#x26;logoColor=white">
+  
+  
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&#x26;logo=instagram&#x26;logoColor=white">
+  
+  
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&#x26;logo=whatsapp&#x26;logoColor=white">
+  
+  
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&#x26;logo=discord&#x26;logoColor=white">
+  
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=100&section=footer"/>
+
+
+
+
+  <img src="https://komarev.com/ghpvc/?username=Guilhermelealsz&#x26;style=flat-square&#x26;color=00D9FF&#x26;label=Profile+Views" alt="Profile views">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer"/>
